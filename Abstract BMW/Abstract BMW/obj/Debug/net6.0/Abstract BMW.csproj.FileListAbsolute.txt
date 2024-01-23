@@ -1,0 +1,14 @@
+C:\Users\Wolf Tim\source\repos\Abstract BMW\Abstract BMW\bin\Debug\net6.0\Abstract BMW.exe
+C:\Users\Wolf Tim\source\repos\Abstract BMW\Abstract BMW\bin\Debug\net6.0\Abstract BMW.deps.json
+C:\Users\Wolf Tim\source\repos\Abstract BMW\Abstract BMW\bin\Debug\net6.0\Abstract BMW.runtimeconfig.json
+C:\Users\Wolf Tim\source\repos\Abstract BMW\Abstract BMW\bin\Debug\net6.0\Abstract BMW.dll
+C:\Users\Wolf Tim\source\repos\Abstract BMW\Abstract BMW\bin\Debug\net6.0\Abstract BMW.pdb
+C:\Users\Wolf Tim\source\repos\Abstract BMW\Abstract BMW\obj\Debug\net6.0\Abstract BMW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wolf Tim\source\repos\Abstract BMW\Abstract BMW\obj\Debug\net6.0\Abstract BMW.AssemblyInfoInputs.cache
+C:\Users\Wolf Tim\source\repos\Abstract BMW\Abstract BMW\obj\Debug\net6.0\Abstract BMW.AssemblyInfo.cs
+C:\Users\Wolf Tim\source\repos\Abstract BMW\Abstract BMW\obj\Debug\net6.0\Abstract BMW.csproj.CoreCompileInputs.cache
+C:\Users\Wolf Tim\source\repos\Abstract BMW\Abstract BMW\obj\Debug\net6.0\Abstract BMW.dll
+C:\Users\Wolf Tim\source\repos\Abstract BMW\Abstract BMW\obj\Debug\net6.0\refint\Abstract BMW.dll
+C:\Users\Wolf Tim\source\repos\Abstract BMW\Abstract BMW\obj\Debug\net6.0\Abstract BMW.pdb
+C:\Users\Wolf Tim\source\repos\Abstract BMW\Abstract BMW\obj\Debug\net6.0\Abstract BMW.genruntimeconfig.cache
+C:\Users\Wolf Tim\source\repos\Abstract BMW\Abstract BMW\obj\Debug\net6.0\ref\Abstract BMW.dll
